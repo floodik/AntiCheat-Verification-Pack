@@ -49,6 +49,32 @@ Detection methods are continuously updated to support new builds and client modi
 
 ---
 
+# 🔥 RageScan
+
+Part of the Anti-Cheat Verification Pack series.
+
+---
+
+## 🚧 Status
+
+Coming Soon — Advanced memory-level inspection module.
+
+---
+
+## 🎯 Planned Features
+
+- Memory-level inspection engine
+- Deep process analysis
+- Advanced heuristic detection
+- Real-time monitoring
+- Extended compatibility layer
+
+---
+
+## 📅 Release Status
+
+Under development.
+
 ## 📦 Download
 
 Go to **Releases** and download the latest version.
