@@ -27,53 +27,61 @@ Built for fair-play control, tournament verification, and system inspection.
 
 ## ⚙️ Features
 
-- Advanced process inspection
-- Heuristic-based detection engine
-- Suspicious file analysis
-- Startup registry inspection
-- Optimized report generation
-- Reduced false positives
-- Improved scan performance
+- Advanced process inspection  
+- Heuristic-based detection engine  
+- Suspicious file analysis  
+- Startup registry inspection  
+- Optimized report generation  
+- Reduced false positives  
+- Improved scan performance  
 
 ---
 
 ## 🎮 Supported Games
 
-- Rust
-- Minecraft
-- Counter-Strike 2
-- Dota 2
-- Custom Clients
+- Rust  
+- Minecraft  
+- Counter-Strike 2  
+- Dota 2  
+- Custom Clients  
 
 Detection methods are continuously updated to support new builds and client modifications.
 
 ---
 
+---
+
 # 🔥 RageScan
 
-Part of the Anti-Cheat Verification Pack series.
+<p align="center">
+  <img src="ragescan-banner.png" width="100%">
+</p>
+
+<p align="center">
+  <b>Coming Soon — Advanced Memory Inspection Module</b>
+</p>
+
+<p align="center">
+  Part of the Anti-Cheat Verification Pack series
+</p>
 
 ---
 
 ## 🚧 Status
 
-Coming Soon — Advanced memory-level inspection module.
+Under development.
 
 ---
 
 ## 🎯 Planned Features
 
-- Memory-level inspection engine
-- Deep process analysis
-- Advanced heuristic detection
-- Real-time monitoring
-- Extended compatibility layer
+- Memory-level inspection engine  
+- Deep process analysis  
+- Advanced heuristic detection  
+- Real-time monitoring  
+- Extended compatibility layer  
 
 ---
-
-## 📅 Release Status
-
-Under development.
 
 ## 📦 Download
 
@@ -91,22 +99,22 @@ Password: `legitscan`
 ## 📈 Changelog
 
 ### v2.7.43
-- Improved heuristic detection engine
-- Faster scan completion
-- Reduced false positives
-- Enhanced startup registry inspection
+- Improved heuristic detection engine  
+- Faster scan completion  
+- Reduced false positives  
+- Enhanced startup registry inspection  
 
 ### v1.0
-- Initial release
+- Initial release  
 
 ---
 
 ## 🚀 Roadmap
 
-- [ ] Real-time monitoring module
-- [ ] Extended memory analysis
-- [ ] Cloud-based signature updates
-- [ ] RageScan integration
+- [ ] Real-time monitoring module  
+- [ ] Extended memory analysis  
+- [ ] Cloud-based signature updates  
+- [ ] RageScan integration  
 
 ---
 
@@ -115,9 +123,9 @@ Password: `legitscan`
 Anti-Cheat Verification Pack is a toolkit lineup focused on system inspection and fair-play analysis.
 
 Upcoming tools:
-- LegitScan
-- RageScan
-- FutureScan
+- LegitScan  
+- RageScan  
+- FutureScan  
 
 ---
 
